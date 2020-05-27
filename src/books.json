@@ -1,0 +1,32 @@
+[{
+        "id": "1",
+        "name": "El arte de la guerra",
+        "authorId": "1"
+    },
+    {
+        "id": "2",
+        "name": "Harry potter",
+        "authorId": "2"
+    },
+    {
+        "id": "3",
+        "name": "Cien años de soledad",
+        "authorId": "3"
+    },
+    {
+        "id": "4",
+        "name": "Los padecientes",
+        "authorId": "3"
+    },
+    {
+        "id": "5",
+        "name": "La biblioteca de babel",
+        "authorId": "4"
+    },
+    {
+        "id": "6",
+        "name": "El libro de arena",
+        "authorId": "4"
+    }
+
+]

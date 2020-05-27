@@ -1,0 +1,29 @@
+{
+    "name": "Rest-Api",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "nodemon src/index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/joni307/Rest-api.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/joni307/Rest-api/issues"
+    },
+    "homepage": "https://github.com/joni307/Rest-api#readme",
+    "dependencies": {
+        "express": "^4.17.1",
+        "lodash": "^4.17.15",
+        "morgan": "^1.10.0",
+        "underscore": "^1.10.2"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.4"
+    }
+}
